@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="testDb1@localhost">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.17">
+    <root id="1"/>
+    <schema id="2" parent="1" name="testDb1">
+      <Current>1</Current>
+    </schema>
+    <schema id="3" parent="1" name="abac_new"/>
+    <schema id="4" parent="1" name="bms"/>
+    <schema id="5" parent="1" name="Bookstore"/>
+    <schema id="6" parent="1" name="card29"/>
+    <schema id="7" parent="1" name="carvida"/>
+    <schema id="8" parent="1" name="dbConn"/>
+    <schema id="9" parent="1" name="emsDb"/>
+    <schema id="10" parent="1" name="envity"/>
+    <schema id="11" parent="1" name="freeway"/>
+    <schema id="12" parent="1" name="freeway-websales"/>
+    <schema id="13" parent="1" name="hibernateTest"/>
+    <schema id="14" parent="1" name="hms"/>
+    <schema id="15" parent="1" name="information_schema"/>
+    <schema id="16" parent="1" name="mbstu_admission"/>
+    <schema id="17" parent="1" name="mbstu_admission_2019"/>
+    <schema id="18" parent="1" name="mbstu_admission_prod_full"/>
+    <schema id="19" parent="1" name="mbstu_admission_prod_latest"/>
+    <schema id="20" parent="1" name="mbstu_admission_prod_test"/>
+    <schema id="21" parent="1" name="mbstu_live_backup_2019"/>
+    <schema id="22" parent="1" name="mycrudapp"/>
+    <schema id="23" parent="1" name="mysql"/>
+    <schema id="24" parent="1" name="my_alumni"/>
+    <schema id="25" parent="1" name="performance_schema"/>
+    <schema id="26" parent="1" name="pointOdSaleDb"/>
+    <schema id="27" parent="1" name="pointOfSaleDb"/>
+    <schema id="28" parent="1" name="sys"/>
+    <schema id="29" parent="1" name="test"/>
+    <schema id="30" parent="1" name="testDb2"/>
+  </database-model>
+</dataSource>
